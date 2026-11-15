@@ -1,0 +1,17 @@
+{
+  "cities": 30,
+  "existing_warehouses": 10,
+  "recommended_warehouses": [
+    "Nagpur",
+    "Kochi",
+    "Patna"
+  ],
+  "weighted_average_baseline_km": 160.9,
+  "weighted_average_optimized_km": 104.53,
+  "weighted_average_reduction_km": 56.38,
+  "weighted_reduction_percent": 35.04,
+  "cities_over_400km_before": 9,
+  "cities_over_400km_after": 3,
+  "demand_units": "illustrative daily orders",
+  "distance_type": "great-circle / Haversine, not driving"
+}
